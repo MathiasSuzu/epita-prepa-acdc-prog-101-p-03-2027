@@ -1,0 +1,15 @@
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\bin\Debug\net7.0\Survivor.exe
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\bin\Debug\net7.0\Survivor.deps.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\bin\Debug\net7.0\Survivor.runtimeconfig.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\bin\Debug\net7.0\Survivor.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\bin\Debug\net7.0\Survivor.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.csproj.AssemblyReference.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.AssemblyInfoInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.AssemblyInfo.cs
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.csproj.CoreCompileInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\refint\Survivor.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\Survivor.genruntimeconfig.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-03-2027-mathias.gillet\Survivor\obj\Debug\net7.0\ref\Survivor.dll
